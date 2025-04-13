@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/lamborghini/static/css/main.d7b34c55.css",
+    "main.js": "/lamborghini/static/js/main.a8fa3d20.js",
+    "static/js/453.ed3810f9.chunk.js": "/lamborghini/static/js/453.ed3810f9.chunk.js",
+    "static/media/satisfia.mp4": "/lamborghini/static/media/satisfia.8185e69968e01072a4a2.mp4",
+    "static/media/boxicons.svg": "/lamborghini/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/contact.png": "/lamborghini/static/media/contact.a8d5e7207c86a9728d6e.png",
+    "static/media/logoLamborghini.png": "/lamborghini/static/media/logoLamborghini.6856cf9434c47fb77d22.png",
+    "static/media/boxicons.eot": "/lamborghini/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/lamborghini/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/lamborghini/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/lamborghini/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/blue.jpg": "/lamborghini/static/media/blue.22b64c6fdc7defc71131.jpg",
+    "static/media/biollet.jpg": "/lamborghini/static/media/biollet.9ea18582b0d71d7c4426.jpg",
+    "static/media/silver.jpg": "/lamborghini/static/media/silver.3cbcdfe365dca26e2cff.jpg",
+    "static/media/black.jpg": "/lamborghini/static/media/black.e5c8c93a7bd4fbac72a1.jpg",
+    "static/media/blackhome.jpg": "/lamborghini/static/media/blackhome.9e68a2108bac3021ac6c.jpg",
+    "static/media/green.jpg": "/lamborghini/static/media/green.8849811bc284672786e0.jpg",
+    "static/media/yellow.jpg": "/lamborghini/static/media/yellow.ac7ea112f459903dbb91.jpg",
+    "static/media/orange.jpg": "/lamborghini/static/media/orange.a3b43d82879425fa2c19.jpg",
+    "index.html": "/lamborghini/index.html",
+    "main.d7b34c55.css.map": "/lamborghini/static/css/main.d7b34c55.css.map",
+    "main.a8fa3d20.js.map": "/lamborghini/static/js/main.a8fa3d20.js.map",
+    "453.ed3810f9.chunk.js.map": "/lamborghini/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7b34c55.css",
+    "static/js/main.a8fa3d20.js"
+  ]
+}
