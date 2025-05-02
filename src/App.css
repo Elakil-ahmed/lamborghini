@@ -1,0 +1,205 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#root{
+    background-color:#EBF4FA;
+}
+header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    border-color: #F8F8FF;
+    background-color:#E0FFFF;
+    border-radius: 30px;
+    box-sizing: border-box;
+}
+header img{
+    height: 80px;
+    width: 80px;
+    margin-left: 30px ;
+}
+header ul {
+    display: flex;
+     margin-left:15px;   
+    margin-left: 0.78vw;
+}
+header ul li {
+     margin-left: 50px; 
+    margin-left: 2.60vw;
+    width: 100px;
+    height: 40px;
+    font-weight:bold;
+}
+
+
+@media (max-width: 950px) {
+    header ul li {
+        margin-left: 20px;
+    }
+    header input{
+        display: none;
+    }
+    
+}
+
+@media (max-width: 800px) {
+    header ul {
+        display: none;
+
+    }
+    input{
+        align-items: center;
+        align-content: center;
+        display: block;
+        width: 100px;
+          
+    }
+} 
+@media (min-width:800px) {
+    #menu{
+        display: none;
+        flex-direction: column;
+    }
+    #labels{
+        display: flex;
+        margin-top: 2vw;
+        
+    }
+    
+}
+
+header div {
+    margin-left: auto;
+}
+#car{
+    margin-left: 30px;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+    margin:3.64vw;
+    border-radius: 30px;
+    display: block;
+}
+
+.grid-container { 
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(100%,600px));
+    gap: 20px;
+    background-color: #b2ebf2;
+}
+.grid-item{
+    width: 600px;
+}
+video{
+    width: 60%;
+    margin-left: 10.40vw;
+}
+
+h1{
+    margin-left: 5vw;
+    margin-top: 40px;
+}
+h3{
+    margin-top: 20px;
+    margin-right: 2.5vw;
+}
+p{
+    font-size:25px;
+    font-weight: 300;
+}
+footer{
+    font-size: 18px;
+    font-weight:lighter;
+    color: black;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    background-color:#E0FFFF;
+}
+table{
+    font-size: 1.2vw;
+    padding: 5px;
+    border:solid 1px;
+    width: 95%;
+    text-align: center;
+} 
+table th,td tr,td{
+    border: 1px solid;
+}
+#search{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
